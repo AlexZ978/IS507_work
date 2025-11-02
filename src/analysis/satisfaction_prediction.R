@@ -1,10 +1,3 @@
-## =========================================================
-## Airline Satisfaction - End-to-End (Single File Version)
-## Author: You
-## Run: source(".../satisfaction_prediction.R", encoding = "UTF-8")
-## Output: output/models/*.csv, output/figures/*.png
-## =========================================================
-
 ## ---------- 0) Setup ----------
 suppressPackageStartupMessages({
   if (!requireNamespace("caret", quietly = TRUE)) install.packages("caret", repos = "https://cran.rstudio.com/")
