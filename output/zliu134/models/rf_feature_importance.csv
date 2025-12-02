@@ -1,0 +1,29 @@
+"Feature","Importance","Model","Importance_Normalized"
+"Online.boarding",6178.01927232395,"Random Forest",100
+"Inflight.wifi.service",5630.28354829111,"Random Forest",91.134120825965
+"Class.Business",2863.3153970967,"Random Forest",46.3468187922894
+"Type.of.Travel.Business travel",2437.55172259838,"Random Forest",39.4552301498641
+"service_score",2296.20137645891,"Random Forest",37.167274416662
+"Type.of.Travel.Personal Travel",2084.48222874098,"Random Forest",33.7402998737631
+"Class.Eco",1885.65223590551,"Random Forest",30.5219545745475
+"Inflight.entertainment",1856.90043769517,"Random Forest",30.0565659614181
+"Seat.comfort",1573.06719526981,"Random Forest",25.4623225653694
+"Ease.of.Online.booking",1456.85863669337,"Random Forest",23.5813223053503
+"Leg.room.service",1116.88515751154,"Random Forest",18.0783695919324
+"Flight.Distance",1069.426099206,"Random Forest",17.3101774543951
+"On.board.service",1039.75671430813,"Random Forest",16.8299363999396
+"Age",1037.76739548467,"Random Forest",16.7977364546858
+"Customer.Type.disloyal Customer",1010.68724607354,"Random Forest",16.3594058471325
+"Customer.Type.Loyal Customer",942.92711560289,"Random Forest",15.2626120774174
+"Checkin.service",879.027426425327,"Random Forest",14.2283050226658
+"Baggage.handling",872.856300514206,"Random Forest",14.128416601489
+"Cleanliness",831.630402054352,"Random Forest",13.4611169922997
+"Inflight.service",803.655287009331,"Random Forest",13.0083000972418
+"Gate.location",576.215050558635,"Random Forest",9.32685744668911
+"Departure.Arrival.time.convenient",567.270660703838,"Random Forest",9.18207981715231
+"Arrival.Delay.in.Minutes",438.915133248222,"Random Forest",7.10446364605007
+"Departure.Delay.in.Minutes",387.235419811159,"Random Forest",6.26795422192807
+"Food.and.drink",350.168826044606,"Random Forest",5.66797885550921
+"Gender.Female",113.249489070367,"Random Forest",1.83310352523013
+"Gender.Male",109.954643481768,"Random Forest",1.77977177854297
+"Class.Eco Plus",95.6710260057041,"Random Forest",1.54857118096551
