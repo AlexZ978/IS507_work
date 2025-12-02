@@ -1,6 +1,32 @@
-# macOS系统文件
+# R specific
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+*.Rproj.user
+
+# Output files
+output/
+*.pdf
+*.png
+*.csv
+!dataset/*.csv
+
+# OS files
 .DS_Store
 **/.DS_Store
+Thumbs.db
 
-#
+# Temporary files
+*.log
+*.aux
+*.out
+*.toc
+*.knit.md
+report.tex
+report_files/
+
+# R Markdown cache
+*_cache/
+*_files/
 
